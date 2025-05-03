@@ -1,2 +1,3 @@
 hello world
 Let's test if we can sign commits from the new machine.
+New test
